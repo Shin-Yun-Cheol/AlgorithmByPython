@@ -1,4 +1,5 @@
 import sys
+
 input = sys.stdin.readline
 suNo, quizNo = map(int, input().split())
 numbers = list(map(int, input().split()))
